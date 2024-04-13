@@ -20,10 +20,3 @@ Oyunun amacı, mayınlarla dolu bir alanda tüm boş kareleri bulmak ve oyunu ka
   - Eğer girdiğiniz koordinata değen bir mayın varsa, o koordinata kaç adet mayın denk geliyorsa, o sayı kutuya yazılır.
   - Eğer girdiğiniz koordinatta mayın yoksa, o koordinata 0 yazılır.
   
-
-## Nasıl Oynanır
-
-Oyunu başlatmak için `java MineSweeper` komutunu kullanın. Ardından, oyun size satır ve sütun sayısını soracaktır. Girdikten sonra, mayınların yerleştirilmesi ve oyunun başlaması için talimatları takip edin.
-
-
-
